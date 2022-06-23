@@ -1,0 +1,19 @@
+.portfolio-box {
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 27px;
+    text-transform: uppercase;
+    background-blend-mode: overlay;
+    background-image: url(/images/herobackground.jpg?e6c64bc…), linear-gradient(135deg, #1a4b71 0%, #132b53 100%) !important;
+    background-size: cover;
+    margin-top: -51px;
+    border-radius: 12px;
+    box-shadow: 7px 20px 50px -10px #142f57;
+}
+.portfolio-wrapper {
+    min-height: 30vh;
+    background: #f0f0f0;
+}

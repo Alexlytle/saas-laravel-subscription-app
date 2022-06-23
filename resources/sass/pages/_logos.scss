@@ -1,0 +1,19 @@
+.image-box img {
+    width: 200px;
+}
+.image-box {
+    padding: 20px;
+    border-radius: 31px;
+    margin: 20px 0 20px 0;
+    min-height: 250px;
+    transition: all .4s;
+    background: linear-gradient( 145deg ,#fff,#e6e6e6);
+    box-shadow: 15px 15px 30px #d9d9d9, -15px -15px 30px #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-row{
+    margin: 35px 0 35px 0;
+}
